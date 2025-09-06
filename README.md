@@ -5,6 +5,7 @@ This project applies digital image processing techniques to automatically extrac
 ## Assignment Task
 
 (i) identify and extract all the paragraphs from the papers he collected, and 
+
 (ii) sort them in the correct order 
 
 ## What I learned
